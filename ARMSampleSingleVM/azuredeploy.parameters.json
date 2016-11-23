@@ -1,0 +1,18 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "adminUsername": {
+            "value": "yusukeoi"
+        },
+        "dnsLabelPrefix": {
+            "value": "yooisinglevm"
+        },
+        "workspaceId": {
+            "value": "1794fb8b-4bb1-4386-a221-7a58d3767073"
+        },
+        "workspaceKey": {
+            "value": "iovOTH8Qligmofxh3EZYpA4A3g/lVocYVV9YFTePlF+Nl500MaVDYdRic2bwvEKNFHcWigeTYqAGJiQIOLZM8Q=="
+        }
+    }
+}
